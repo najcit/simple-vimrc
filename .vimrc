@@ -1,0 +1,17 @@
+syntax on
+set nocompatible
+set showcmd
+set ruler
+set number
+set history=2000
+set mouse=a
+set clipboard+=unamed
+set autochdir
+set autoread
+set autowrite
+set whichwrap+=<,>,h,l
+set encoding=utf-8
+set showmatch
+set expandtab
+set tabstop=4
+set wildmenu
